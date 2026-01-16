@@ -1,4 +1,4 @@
-# 👋 Hi, I'm nitesh45176  
+# 👋 Hi, I'm Nitesh Kumar Mishra
 
 💻 **Full Stack Developer** | 🚀 Passionate about building scalable web applications  
 🌱 Currently exploring advanced **MERN Stack** projects and deployment  

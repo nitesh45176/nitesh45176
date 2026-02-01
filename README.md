@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Skills  
 
-- 🌐 **Frontend:** HTML, CSS, JavaScript, React  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React  , Typescript
 - ⚙️ **Backend:** Node.js, Express.js  
 - 🗄️ **Database:** MongoDB  
 - 🧪 **API Testing:** Postman  

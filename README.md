@@ -28,7 +28,7 @@
 
 - 🌐 **Frontend:** HTML, CSS, JavaScript, React  , Typescript , Nextjs
 - ⚙️ **Backend:** Node.js, Express.js  
-- 🗄️ **Database:** MongoDB  
+- 🗄️ **Database:** MongoDB, PostgreSQL
 - 🧪 **API Testing:** Postman  
 - 🛠️ **Tools:** Git, GitHub, VS Code  
 

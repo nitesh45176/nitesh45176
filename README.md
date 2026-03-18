@@ -30,7 +30,7 @@
 - ⚙️ **Backend:** Node.js, Express.js  
 - 🗄️ **Database:** MongoDB, PostgreSQL
 - 🧪 **API Testing:** Postman  
-- 🛠️ **Tools:** Git, GitHub, VS Code  
+- 🛠️ **Tools:** Git, GitHub, VSCode , Vercel
 
 ---
 

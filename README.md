@@ -191,5 +191,5 @@ Machine Learning
 └── ML System Design
  ```
 ## 🤝 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/nitesh-mishra-368662321/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:mishranitesh45176@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/nitesh45176"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> 📍 New Delhi, India </p>
+<p align="center"> <a href="https://www.linkedin.com/in/nitesh45176/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:mishranitesh45176@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/nitesh45176"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> 📍 New Delhi, India </p>
 <p align="center"> <i>"Build. Break. Learn. Repeat."</i> 🚀 </p> <p align="center"> ⭐ If you find my projects interesting, consider giving them a star! </p>
